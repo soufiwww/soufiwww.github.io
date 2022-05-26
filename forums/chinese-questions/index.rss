@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>中文</title>
+    <description>中文</description>
+    <pubDate>Thu, 26 May 2022 13:17:38 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 13:17:38 +0000</lastBuildDate>
+    <generator>Legendware</generator>
+    <link>https://legendware.pw/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://legendware.pw/forums/chinese-questions/index.rss"/>
+    <item>
+      <title>lw em</title>
+      <pubDate>Tue, 24 May 2022 23:48:45 +0000</pubDate>
+      <link>https://legendware.pw/threads/lw-em.8391/</link>
+      <guid isPermaLink="false">8391</guid>
+      <author>invalid@example.com (xiaoc)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>xiaoc</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://legendware.pw/attachments/1653186039198-png.17240/" data-url="https://legendware.pw/attachments/1653186039198-png.17240/" class="bbImage " loading="lazy"
+		alt="1653186039198.png" title="1653186039198.png" style="" width="" height="" /></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>什么时候加回lby mode哥们整tank aa</title>
+      <pubDate>Fri, 20 May 2022 10:58:06 +0000</pubDate>
+      <link>https://legendware.pw/threads/lby-mode-tank-aa.8348/</link>
+      <guid isPermaLink="false">8348</guid>
+      <author>invalid@example.com (MuxiFx)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>MuxiFx</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img class="smilie smilie--emoji" loading="lazy" alt="😅" title="Grinning face with sweat    :sweat_smile:" src="https://cdn.jsdelivr.net/joypixels/assets/6.6/png/unicode/64/1f605.png" data-shortname=":sweat_smile:" /></div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>一些建议，我感觉蛮重要的</title>
+      <pubDate>Thu, 19 May 2022 08:29:20 +0000</pubDate>
+      <link>https://legendware.pw/threads/8193/</link>
+      <guid isPermaLink="false">8193</guid>
+      <author>invalid@example.com (skinmc)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>skinmc</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">我想给开发人员提一些建议<br />
+1.建议把软件的单线程的基础(不影响游戏性能前提）上多加一个或多个线程来处理一些预判类的事件，因为预判类的事件我感觉有60%是不准确的，搞得一直空枪miss。。。<br />
+2.建议把静默AA修复一下，因为我用静默的时候回身体自己抖动。<br />
+3.打开注入器的时候加载的图标可以优化一下，因为要等蛮久的，有时候不小心闪退了，打开软件等好久，有时候注入器加载页面会概率闪退。<br />
+<br />
+希望尽快能更新出来</div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>对legendware的一些建议</title>
+      <pubDate>Tue, 17 May 2022 23:19:14 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware.8384/</link>
+      <guid isPermaLink="false">8384</guid>
+      <author>invalid@example.com (shijiu1337)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>shijiu1337</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">玩了15天的lw，给对各个部分来一个评分<br />
+legitbot: 10/10 可以满足大部分需求<br />
+ragebot: 6/10   时好时坏的解析<br />
+anti aim: 7/10  没有lby mode，但是功能很全。（我们需要开放anti aim方面的更多api）<br />
+misc：9/10 中规中矩，但是居然没有fake ping<br />
+visuals 10/10 视觉对于我来说都差不多<br />
+杂项：注入时带来的过高cpu占用，我在注入其他欺骗时cpu占用通常会达到百分之30-40，而注入lw的过程中占用会直接飙升到百分之90.<br />
+对于一个30块的欺骗来说，能达到这种效果真的不错了。</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>为什么我的lw注入器下载完后打开会卡在这个对话窗口</title>
+      <pubDate>Tue, 17 May 2022 13:25:22 +0000</pubDate>
+      <link>https://legendware.pw/threads/lw.8375/</link>
+      <guid isPermaLink="false">8375</guid>
+      <author>invalid@example.com (aiwww7)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>aiwww7</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://legendware.pw/attachments/1652692181781-png.17193/"
+			class="bbImage "
+			style=""
+			alt="1652692181781.png"
+			title="1652692181781.png"
+			width="556" height="226" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>14</slash:comments>
+    </item>
+    <item>
+      <title>账号被盗如何找回</title>
+      <pubDate>Mon, 16 May 2022 12:28:48 +0000</pubDate>
+      <link>https://legendware.pw/threads/8373/</link>
+      <guid isPermaLink="false">8373</guid>
+      <author>invalid@example.com (candyhvh123123)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>candyhvh123123</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">如题，我有购买记录和被盗记录</div>]]></content:encoded>
+      <slash:comments>7</slash:comments>
+    </item>
+    <item>
+      <title>GG cheat</title>
+      <pubDate>Mon, 16 May 2022 05:38:45 +0000</pubDate>
+      <link>https://legendware.pw/threads/gg-cheat.8204/</link>
+      <guid isPermaLink="false">8204</guid>
+      <author>invalid@example.com (DAshige)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>DAshige</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">中午续的费  下午挨的揍  很失望，传奇软件的强度甚至不如尼克斯强，更新还慢    人傻钱多的人才会买， 除非你买来打合法  换肤什么的很好           干拉干拉打不过，纯净纯净打不过   空扩散空解析空预判    纯纯一fw纪 测试版本迟迟不放出来，你不更新你拿什么跟别的作弊玩   还说要和别的作弊一起更新 你跟他们都不是一个段位的 I&#039;m very disappointed now that the legendary software is not as strong as the Knicks, and it&#039;s still slow to update    Buyers are just stupid people with a lot of money<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite23" alt="(n)" title="Thumbs down    (n)" loading="lazy" data-shortname="(n)" /><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite23" alt="(n)" title="Thumbs down    (n)" loading="lazy" data-shortname="(n)" /><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite23" alt="(n)" title="Thumbs down    (n)" loading="lazy" data-shortname="(n)" /><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite31" alt=":poop:" title="Poop    :poop:" loading="lazy" data-shortname=":poop:" /></div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>legendware</title>
+      <pubDate>Mon, 16 May 2022 05:35:57 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware.8370/</link>
+      <guid isPermaLink="false">8370</guid>
+      <author>invalid@example.com (a95210)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>a95210</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Where do I need to buy permanent cheating software</div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>我换电脑了，还可以使用该款欺诈吗？</title>
+      <pubDate>Mon, 16 May 2022 05:34:18 +0000</pubDate>
+      <link>https://legendware.pw/threads/8371/</link>
+      <guid isPermaLink="false">8371</guid>
+      <author>invalid@example.com (heyangbo)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>heyangbo</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">我换电脑，还可以使用该款欺诈吗？</div>]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>关于本线程的回答一些需要注意的问题</title>
+      <pubDate>Sat, 14 May 2022 02:32:44 +0000</pubDate>
+      <link>https://legendware.pw/threads/8156/</link>
+      <guid isPermaLink="false">8156</guid>
+      <author>invalid@example.com (soapsama)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>soapsama</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><h3><div style="text-align: center">大家好，很高兴所有的中国用户选择了传奇软件，在这里，请您用中文提问&#8203;</div></h3><h3><div style="text-align: center">我们的工作人员会审查每条帖子 会尽力回答您在软件使用上的问题&#8203;</div></h3><h3><div style="text-align: center">请不要在论坛本组恶意攻击其他人也请不要宣传相关法律政策揭露民族种族歧视的问题&#8203;</div></h3><h3><div style="text-align: center">提问的时候，请不要问一些没有意义的问题，比如什么时候更新，这些毫无意义的问题您只需要论坛消息即可&#8203;</div></h3><h2><div style="text-align: center">在提问的过程中 请在帖子详细的截图或者录制视频&#8203;</div></h2><h2><div style="text-align: center">尽可能的向管理员通熟易懂解释您的问题！！若您无法解释&#8203;</div></h2><h2><div style="text-align: center">可以添加我的QQ:3311307824或者售后交流群反馈&#8203;</div></h2><h2><div style="text-align: center">有以下几个提问问题<span style="color: rgb(184, 49, 47)"> <b>我们不希望在本版块看到</b></span>&#8203;</div></h2><h2><div style="text-align: center"><span style="color: rgb(184, 49, 47)"><b>1.作弊什么时候更新</b></span>&#8203;</div></h2><h2><div style="text-align: center"><span style="color: rgb(184, 49, 47)"><b>2.如何重置HWID</b></span>&#8203;</div></h2>...<br />
+<br />
+<a href="https://legendware.pw/threads/8156/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>注入崩溃了</title>
+      <pubDate>Sat, 07 May 2022 08:39:10 +0000</pubDate>
+      <link>https://legendware.pw/threads/8328/</link>
+      <guid isPermaLink="false">8328</guid>
+      <author>invalid@example.com (BAOAN)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>BAOAN</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">就是进了游戏，等待中，崩溃了好多次了</div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>我无法进入游戏</title>
+      <pubDate>Sat, 30 Apr 2022 11:06:49 +0000</pubDate>
+      <link>https://legendware.pw/threads/8311/</link>
+      <guid isPermaLink="false">8311</guid>
+      <author>invalid@example.com (zhenbucuo666)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>zhenbucuo666</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">An internal exception occurred!Address: Oxdd5eo<br />
+code: Oxco000005</div>]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>请问一下，Code16，17，21，23应该怎么解决</title>
+      <pubDate>Tue, 26 Apr 2022 14:43:46 +0000</pubDate>
+      <link>https://legendware.pw/threads/code16-17-21-23.8290/</link>
+      <guid isPermaLink="false">8290</guid>
+      <author>invalid@example.com (MuJ)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>MuJ</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">关于LW正式版的问题，我觉得不要在像V4刚推出时，是个半成品，我希望LW更新时，它拥有完美的LuaAPI系统以及其他完美的功能，最后，我想问一下，标题四个错误代码都是在注入过程中出现的，应该怎么解决，如何让注入成功率高一点<br />
+传奇永不落幕！<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite26" alt=":coffee:" title="Coffee    :coffee:" loading="lazy" data-shortname=":coffee:" /></div>]]></content:encoded>
+      <slash:comments>5</slash:comments>
+    </item>
+    <item>
+      <title>什么时候更新:(</title>
+      <pubDate>Sun, 17 Apr 2022 11:17:42 +0000</pubDate>
+      <link>https://legendware.pw/threads/8268/</link>
+      <guid isPermaLink="false">8268</guid>
+      <author>invalid@example.com (MuxiFx)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>MuxiFx</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">什么时候更新<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="smilie smilie--sprite smilie--sprite3" alt=":(" title="Frown    :(" loading="lazy" data-shortname=":(" /></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>什么时候能够修复掉帧问题</title>
+      <pubDate>Sun, 17 Apr 2022 08:11:27 +0000</pubDate>
+      <link>https://legendware.pw/threads/8241/</link>
+      <guid isPermaLink="false">8241</guid>
+      <author>invalid@example.com (skinmc)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>skinmc</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">我今天测试参数时发现，如果同时有4个机器人暴露在可攻击范围，fps会从300变成60-30之间甚至更低，还有我在服务器里遇到一个在箱子后的敌人我可以攻击他的头部，但是作弊空枪和不开枪，fps只有60左右</div>]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>请查看</title>
+      <pubDate>Sun, 17 Apr 2022 07:21:08 +0000</pubDate>
+      <link>https://legendware.pw/threads/8267/</link>
+      <guid isPermaLink="false">8267</guid>
+      <author>invalid@example.com (D1Sheng)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>D1Sheng</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">我只开了个皮肤和自瞄，只打了一把竞技他就全球封禁了，我本来相信lw的反vac系统的所以我用的大号玩的，为什么打了一把就全球封禁，希望能快一点修复，还有解析解析和掉帧的问题，我不希望你们总是一很快就会更新好这个借口来拖</div>]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>这应该就是所谓的静默AA</title>
+      <pubDate>Sun, 10 Apr 2022 03:12:29 +0000</pubDate>
+      <link>https://legendware.pw/threads/aa.8237/</link>
+      <guid isPermaLink="false">8237</guid>
+      <author>invalid@example.com (skinmc)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>skinmc</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">视频：<a href="https://www.aliyundrive.com/s/4u5aYpVSXdA" target="_blank" class="link link--external" rel="nofollow ugc noopener">阿里云盘分享</a><br />
+video: <a href="https://www.aliyundrive.com/s/4u5aYpVSXdA" target="_blank" class="link link--external" rel="nofollow ugc noopener">阿里云盘分享</a></div>]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>我反复下载了注入器，为什么还是提示Please redownload loader</title>
+      <pubDate>Sat, 09 Apr 2022 17:41:05 +0000</pubDate>
+      <link>https://legendware.pw/threads/please-redownload-loader.8219/</link>
+      <guid isPermaLink="false">8219</guid>
+      <author>invalid@example.com (lianhua)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>lianhua</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">如题</div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>购买未到账</title>
+      <pubDate>Sat, 09 Apr 2022 09:47:13 +0000</pubDate>
+      <link>https://legendware.pw/threads/8230/</link>
+      <guid isPermaLink="false">8230</guid>
+      <author>invalid@example.com (Yifan Xu)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>Yifan Xu</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://legendware.pw/attachments/1649497592008-png.16760/"
+			class="bbImage "
+			style=""
+			alt="1649497592008.png"
+			title="1649497592008.png"
+			width="626" height="560" loading="lazy" /><br />
+到北京时间17::46还未到账</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>对legendware的 一些建议</title>
+      <pubDate>Sat, 09 Apr 2022 08:33:58 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware.8228/</link>
+      <guid isPermaLink="false">8228</guid>
+      <author>invalid@example.com (ahuuu25)</author>
+      <category domain="https://legendware.pw/forums/chinese-questions/"><![CDATA[中文]]></category>
+      <dc:creator>ahuuu25</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">亲爱的管理员，我希望您们可以尽快修复lua的api，lw是一款很不错的廉价作弊，我非常乐于使用它，但是在换切换config时经常卡崩，十分影响我对lw的体验，还有 我希望lw可以像nl一样，在ui里添加中文以及俄语，因为lw在中国和俄罗斯有很大的市场潜力</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>

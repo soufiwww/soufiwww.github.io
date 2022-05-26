@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Questions</title>
+    <description>Here you can ask questions about the product</description>
+    <pubDate>Thu, 26 May 2022 13:17:06 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 13:17:06 +0000</lastBuildDate>
+    <generator>Legendware</generator>
+    <link>https://legendware.pw/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://legendware.pw/forums/questions/index.rss"/>
+  </channel>
+</rss>

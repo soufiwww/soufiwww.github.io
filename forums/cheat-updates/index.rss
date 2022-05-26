@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Updates</title>
+    <description>Here you can see the latest updates of the product</description>
+    <pubDate>Thu, 26 May 2022 13:16:26 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 13:16:26 +0000</lastBuildDate>
+    <generator>Legendware</generator>
+    <link>https://legendware.pw/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://legendware.pw/forums/cheat-updates/index.rss"/>
+    <item>
+      <title>31.05.2021</title>
+      <pubDate>Thu, 26 May 2022 12:29:30 +0000</pubDate>
+      <link>https://legendware.pw/threads/31-05-2021.5022/</link>
+      <guid isPermaLink="false">5022</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Increased inject speed.<br />
+Fixed various crashes.<br />
+Fixed various bugs.<br />
+<br />
+● Rage<br />
+Improved aim stability.<br />
+Reworked resolver.<br />
+Added automatic stop modifiers.<br />
+Added force body aim if lethal option.<br />
+Now hide shots works with fake lag (limited to 6 ticks).<br />
+Fixed various bugs.<br />
+<br />
+● Visuals<br />
+Added inferno indicator option.<br />
+Added smoke indicator option.<br />
+Added bomb timer option.<br />
+Added grenade warning.<br />
+Fixed various bugs.<br />
+<br />
+● Misc<br />
+Fixed various bugs with automatic peek.<br />
+Added anti-untrusted option...<br />
+<br />
+<a href="https://legendware.pw/threads/31-05-2021.5022/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>44</slash:comments>
+    </item>
+    <item>
+      <title>23.12.2019</title>
+      <pubDate>Sun, 22 May 2022 18:50:37 +0000</pubDate>
+      <link>https://legendware.pw/threads/23-12-2019.15/</link>
+      <guid isPermaLink="false">15</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Cheat</b><br />
+<ul>
+<li data-xf-list-type="ul">Added anti-backshoot on manual shooting. </li>
+<li data-xf-list-type="ul">Improved yaw anti-aim correction. </li>
+<li data-xf-list-type="ul">Reworked anti-aim direction system. </li>
+<li data-xf-list-type="ul">Limited fake lag limit on valve servers. </li>
+<li data-xf-list-type="ul">Added choke indicator. </li>
+<li data-xf-list-type="ul">Added key bind on edge jump. </li>
+<li data-xf-list-type="ul">Fixed various bugs. </li>
+</ul></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>11.12.2021</title>
+      <pubDate>Fri, 20 May 2022 21:31:24 +0000</pubDate>
+      <link>https://legendware.pw/threads/11-12-2021.6983/</link>
+      <guid isPermaLink="false">6983</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Multithreading support has been temporarily removed (for reworking).<br />
+Fixed crashes related to loading some Lua scripts.<br />
+Fixed crashes related to recent game update.<br />
+Fixed various bugs.<br />
+<br />
+● Rage<br />
+Improved aim stability.<br />
+Improved various bugs.<br />
+<br />
+● Anti-aim<br />
+Added flick.<br />
+<br />
+Also, 7 bonus days were added to all users with an active subscription. Soon we will be able to please you with a larger update of the cheat and the site, stay tuned!</div>]]></content:encoded>
+      <slash:comments>146</slash:comments>
+    </item>
+    <item>
+      <title>10.04.2020</title>
+      <pubDate>Sat, 16 Apr 2022 12:28:17 +0000</pubDate>
+      <link>https://legendware.pw/threads/10-04-2020.420/</link>
+      <guid isPermaLink="false">420</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Rage</b><br />
+<ul>
+<li data-xf-list-type="ul">Recoded backtrack.</li>
+<li data-xf-list-type="ul">Recoded automatic penetration system.</li>
+<li data-xf-list-type="ul">Improved automatic stop.</li>
+<li data-xf-list-type="ul">Improved aimbot stability.</li>
+</ul><b>Anti-aim</b><br />
+<ul>
+<li data-xf-list-type="ul">Improved anti-aim logic.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul><b>Visuals</b><br />
+<ul>
+<li data-xf-list-type="ul">Added backtrack chams.</li>
+<li data-xf-list-type="ul">Added transparency in scope setting.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>21</slash:comments>
+    </item>
+    <item>
+      <title>26.04.2021</title>
+      <pubDate>Wed, 13 Apr 2022 10:34:23 +0000</pubDate>
+      <link>https://legendware.pw/threads/26-04-2021.4567/</link>
+      <guid isPermaLink="false">4567</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Now all actions with configs occur without freezes.<br />
+Improved optimization.<br />
+Fixed various crashes.<br />
+Fixed various bugs.<br />
+<br />
+● Rage<br />
+Improved animation system.<br />
+Improved aim stability.<br />
+Improved double tap stability.<br />
+Improved automatic stop.<br />
+Added force accuracy option.<br />
+Fixed various bugs.<br />
+<br />
+● Anti-aim<br />
+Improved anti-aim logic.<br />
+Now fake duck works on Valve servers.<br />
+Fixed various bugs.<br />
+<br />
+● Visuals<br />
+Changed automatic peek indicator design.<br />
+Changed grenade prediction design.<br />
+Reworked night mode...<br />
+<br />
+<a href="https://legendware.pw/threads/26-04-2021.4567/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>54</slash:comments>
+    </item>
+    <item>
+      <title>27.08.2021</title>
+      <pubDate>Sat, 25 Dec 2021 05:44:15 +0000</pubDate>
+      <link>https://legendware.pw/threads/27-08-2021.5936/</link>
+      <guid isPermaLink="false">5936</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Improved optimization.<br />
+Changed weapon groups. You need to reconfigure all the settings for each weapon group.<br />
+Fixed various crashes.<br />
+Fixed various bugs.<br />
+<br />
+● Legit<br />
+Added key bind for aim working.<br />
+Added hitbox selection.<br />
+Added weapon group selection.<br />
+Added field of view.<br />
+Added field of view indicator when the menu is open.<br />
+Added smooth.<br />
+Added recoil control system function. You can configure pitch and yaw separately.<br />
+Added flash check.<br />
+Added smoke check.<br />
+Added backtrack limit.<br />
+Added...<br />
+<br />
+<a href="https://legendware.pw/threads/27-08-2021.5936/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>39</slash:comments>
+    </item>
+    <item>
+      <title>24.09.2021</title>
+      <pubDate>Sun, 05 Dec 2021 18:20:39 +0000</pubDate>
+      <link>https://legendware.pw/threads/24-09-2021.6233/</link>
+      <guid isPermaLink="false">6233</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Cheat has been updated for the latest game version<br />
+Now our product supports disabling lag compensation, using the command &quot;cl_lagcompensation 0&quot;. This will allow you to shoot faster at opponents who use the lag/defensive exploit.<br />
+Note: this command can be changed only when you are in the game menu, or already on the map in the spectators.<br />
+Warning: disabling lag compensation may affect the accuracy of the aimbot and its operation in general, use it only when necessary.<br />
+<br />
+● Misc<br />
+Added...<br />
+<br />
+<a href="https://legendware.pw/threads/24-09-2021.6233/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>84</slash:comments>
+    </item>
+    <item>
+      <title>21.06.2021 &amp; extra days</title>
+      <pubDate>Fri, 27 Aug 2021 06:12:43 +0000</pubDate>
+      <link>https://legendware.pw/threads/21-06-2021-extra-days.5247/</link>
+      <guid isPermaLink="false">5247</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Fixed various bugs.<br />
+Added multithread support (beta). If you will have performance problems - set the value of the number of threads in your processor in the file threads.txt, which should be located on the desktop.<br />
+<br />
+● Rage<br />
+Improved aim stability.<br />
+Improved hitbox selection.<br />
+Added lag exploit function (you will be lagging before the peeking).<br />
+Simplified setup for minimum damage. Now there is only 1 slider for setup (you need to re-set the minimum damage values in your configs).<br />
+Fixed...<br />
+<br />
+<a href="https://legendware.pw/threads/21-06-2021-extra-days.5247/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>30</slash:comments>
+    </item>
+    <item>
+      <title>07.03.2021</title>
+      <pubDate>Thu, 13 May 2021 12:26:50 +0000</pubDate>
+      <link>https://legendware.pw/threads/07-03-2021.3513/</link>
+      <guid isPermaLink="false">3513</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Fixed some crashes.<br />
+Improved optimization.<br />
+<br />
+● Anti-aim<br />
+Added manual anti-aim.<br />
+<br />
+● Visuals<br />
+Added visualisation manual anti-aim.<br />
+<br />
+● Misc<br />
+Added fast stop.<br />
+Added automatic peek.<br />
+<br />
+● Settings<br />
+Fixed various bugs with config system.</div>]]></content:encoded>
+      <slash:comments>45</slash:comments>
+    </item>
+    <item>
+      <title>20.03.2021 &amp; extra days</title>
+      <pubDate>Fri, 19 Mar 2021 21:39:57 +0000</pubDate>
+      <link>https://legendware.pw/threads/20-03-2021-extra-days.3902/</link>
+      <guid isPermaLink="false">3902</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Fixed glitched font in menu.<br />
+Fixed various crashes.<br />
+<br />
+● Rage<br />
+Added early condition in automatic stop, works automatically in some cases.<br />
+Added automatic knife option, works automatically with toggled rage.<br />
+Fixed various bugs.<br />
+<br />
+● Anti-aim<br />
+Added invert desync option, works only with static desync type.<br />
+Fixed various bugs.<br />
+<br />
+● Visuals<br />
+Fixed various bugs.<br />
+<br />
+● Misc<br />
+Added logs enabling option.<br />
+<br />
+● Settings<br />
+Added refresh option in scripts list.<br />
+<br />
+● Lua<br />
+Added menu.add_key_bind function.<br />
+<br />
+It also...<br />
+<br />
+<a href="https://legendware.pw/threads/20-03-2021-extra-days.3902/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>09.03.2021 &amp; extra days</title>
+      <pubDate>Tue, 09 Mar 2021 20:25:03 +0000</pubDate>
+      <link>https://legendware.pw/threads/09-03-2021-extra-days.3598/</link>
+      <guid isPermaLink="false">3598</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Main<br />
+Fixed various crashes.<br />
+<br />
+● Rage<br />
+Reworked automatic stop, now automatic stop option is displayed in the menu. You need to enable it in your config.<br />
+Improved firing when unscoped.<br />
+Fixed various bugs.<br />
+<br />
+● Visuals<br />
+Added visualize lag option on fake chams.<br />
+Added layered option on fake chams.<br />
+Added thirdperson when spectating option, now thirdperson toggleable when you are looking for teammates.<br />
+Fixed various bugs.<br />
+<br />
+● Misc<br />
+Added preserve killfeed option.<br />
+Fixed various bugs with autopeek.<br />
+<br />
+●...<br />
+<br />
+<a href="https://legendware.pw/threads/09-03-2021-extra-days.3598/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Legendware v2 | 23.03.2020</title>
+      <pubDate>Sat, 06 Mar 2021 16:58:49 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware-v2-23-03-2020.278/</link>
+      <guid isPermaLink="false">278</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/mG7dhVrNU74?wmode=opaque"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><br />
+<b>Menu</b><br />
+<ul>
+<li data-xf-list-type="ul">Added new menu.</li>
+<li data-xf-list-type="ul">Redesigned menu structure.</li>
+<li data-xf-list-type="ul">Added the ability to move in the menu.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul><b>Rage</b><br />
+<ul>
+<li data-xf-list-type="ul">Recoded jitter anti-aim correction.</li>
+<li data-xf-list-type="ul">Improved aimbot stability.</li>
+<li data-xf-list-type="ul">Improved automatic stop.</li>
+<li data-xf-list-type="ul">Added body aim level.</li>
+<li data-xf-list-type="ul">Recoded multi-point.</li>
+<li data-xf-list-type="ul">Added multi-point level.</li>
+<li data-xf-list-type="ul">Added safe body points.</li>
+<li data-xf-list-type="ul">Recoded exploits.</li>
+<li data-xf-list-type="ul">Added double tap hitchance.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul><b>Anti-aim</b><br />
+<ul>
+<li data-xf-list-type="ul">Added per movement type...</li>
+</ul><br />
+<a href="https://legendware.pw/threads/legendware-v2-23-03-2020.278/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>29</slash:comments>
+    </item>
+    <item>
+      <title>Legendware v4 | 04.03.2021</title>
+      <pubDate>Thu, 04 Mar 2021 20:59:18 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware-v4-04-03-2021.3217/</link>
+      <guid isPermaLink="false">3217</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Legendware v4<br />
+<br />
+● Main<br />
+Changed the user interface.<br />
+Changed the design of the forum.<br />
+Changed the loader design.<br />
+<br />
+● Legit<br />
+Legitbot in development, soon to be completed.<br />
+<br />
+● Rage<br />
+Fully recoded aimbot, exploits etc.<br />
+<br />
+● Anti-aims<br />
+Fully recoded anti-aim system.<br />
+<br />
+● Visuals<br />
+Fully redesigned visuals, added ESP preview.<br />
+<br />
+● Misc<br />
+Added some missing and new options.<br />
+<br />
+● Skins<br />
+Fully recoded skin changer, now it&#039;s an inventory changer.<br />
+<br />
+● Settings<br />
+Fully reworked CFG system, they are now stored in the cloud...<br />
+<br />
+<a href="https://legendware.pw/threads/legendware-v4-04-03-2021.3217/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Legendware v3 | 12.10.2020</title>
+      <pubDate>Thu, 04 Mar 2021 13:39:32 +0000</pubDate>
+      <link>https://legendware.pw/threads/legendware-v3-12-10-2020.2255/</link>
+      <guid isPermaLink="false">2255</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><div class="bbMediaWrapper">
+	<div class="bbMediaWrapper-inner">
+		<iframe src="https://www.youtube.com/embed/vosoZcjhT6o?wmode=opaque"
+				width="560" height="315"
+				frameborder="0" allowfullscreen="true"></iframe>
+	</div>
+</div><br />
+<b><span style="color: rgb(255, 255, 255)"><span style="font-size: 18px">General</span></span></b><br />
+● New user interface.<br />
+● Added ability to copy, paste and drag colors in color pickers.<br />
+● Added scripts editor.<br />
+● Note: you will need to create new configs, as the old ones will not work.<br />
+<br />
+<b><span style="color: rgb(209, 72, 65)"><span style="font-size: 18px">Rage</span></span></b><br />
+● Reworked resolver.<br />
+● Reworked aimbot with zeus.<br />
+● Reworked aimbot with knife.<br />
+● Reworked automatic scope, now it is adaptive.<br />
+● Reworked damage calculation system.<br />
+● Reworked wall penetration system.<br />
+● Reworked hitchance system.<br />
+●...<br />
+<br />
+<a href="https://legendware.pw/threads/legendware-v3-12-10-2020.2255/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>83</slash:comments>
+    </item>
+    <item>
+      <title>30.12.2019</title>
+      <pubDate>Fri, 19 Feb 2021 06:14:49 +0000</pubDate>
+      <link>https://legendware.pw/threads/30-12-2019.33/</link>
+      <guid isPermaLink="false">33</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Cheat</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed some bugs with OOF arrows.</li>
+<li data-xf-list-type="ul">Fixed some crashes.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>19</slash:comments>
+    </item>
+    <item>
+      <title>27.12.2019</title>
+      <pubDate>Fri, 19 Feb 2021 06:14:19 +0000</pubDate>
+      <link>https://legendware.pw/threads/27-12-2019.21/</link>
+      <guid isPermaLink="false">21</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Cheat</b><br />
+<ul>
+<li data-xf-list-type="ul">Reworked slow walk automatic stop.</li>
+<li data-xf-list-type="ul">Fixed some bugs with manual anti-aim.</li>
+<li data-xf-list-type="ul">Changed style of manual anti-aim arrows.</li>
+<li data-xf-list-type="ul">Fixed some bugs with preserve killfeed.</li>
+<li data-xf-list-type="ul">Added model changer.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>17</slash:comments>
+    </item>
+    <item>
+      <title>28.06.2020</title>
+      <pubDate>Fri, 19 Feb 2021 06:12:37 +0000</pubDate>
+      <link>https://legendware.pw/threads/28-06-2020.872/</link>
+      <guid isPermaLink="false">872</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">[ <span style="color: rgb(226, 80, 65)"><b>Rage</b></span> ]<br />
+<span style="color: rgb(226, 80, 65)">●</span> Recoded resolver.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Improved accuracy while fake ducking.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Improved aimbot stability.<br />
+<br />
+[ <span style="color: rgb(250, 197, 28)"><b>Anti-aim</b></span> ]<br />
+<span style="color: rgb(250, 197, 28)">●</span> Fixed bugs with LBY breaker.<br />
+<span style="color: rgb(250, 197, 28)">●</span> Added desync range setting.<br />
+<br />
+[ <span style="color: rgb(97, 189, 109)"><b>Misc</b></span> ]<br />
+<span style="color: rgb(97, 189, 109)">●</span> Recoded fake duck.<br />
+<span style="color: rgb(97, 189, 109)">●</span> Fixed various bugs.<br />
+<br />
+[ <span style="color: rgb(147, 101, 184)"><b>Scripting</b></span> ]<br />
+<span style="color: rgb(147, 101, 184)">●</span> Added developer mode setting.<br />
+<span style="color: rgb(147, 101, 184)">●</span> Added menu.set_bool function.<br />
+<span style="color: rgb(147, 101, 184)">●</span> Added menu.set_int function.<br />
+<span style="color: rgb(147, 101, 184)">●</span> Added...<br />
+<br />
+<a href="https://legendware.pw/threads/28-06-2020.872/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>32</slash:comments>
+    </item>
+    <item>
+      <title>09.07.2020</title>
+      <pubDate>Fri, 19 Feb 2021 06:09:57 +0000</pubDate>
+      <link>https://legendware.pw/threads/09-07-2020.991/</link>
+      <guid isPermaLink="false">991</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">[ <b><span style="color: rgb(255, 255, 255)">General</span></b> ]<br />
+<span style="color: rgb(255, 255, 255)">●</span> Fixed cheat for the latest game version.<br />
+<br />
+[ <b><span style="color: rgb(226, 80, 65)">Rage</span></b> ]<br />
+<span style="color: rgb(226, 80, 65)">● </span>Added on double tap body aim condition (you need to set this conditions again).<br />
+<span style="color: rgb(226, 80, 65)">●</span> Improved enemy animation system.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Improved hitchance optimization.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Reworked accuracy boost calculation.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Fixed some bugs with shot delaying on instant double tap.<br />
+<span style="color: rgb(226, 80, 65)">●</span> Fixed various bugs.<br />
+<br />
+[ <b><span style="color: rgb(250, 197, 28)">Anti-aim</span></b> ]<br />
+<span style="color: rgb(250, 197, 28)">●</span> Fixed anti-aim logic with LBY breaker...<br />
+<br />
+<a href="https://legendware.pw/threads/09-07-2020.991/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>64</slash:comments>
+    </item>
+    <item>
+      <title>12.01.2020</title>
+      <pubDate>Tue, 13 Oct 2020 20:39:54 +0000</pubDate>
+      <link>https://legendware.pw/threads/12-01-2020.69/</link>
+      <guid isPermaLink="false">69</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Rage</b><br />
+<ul>
+<li data-xf-list-type="ul">Improved double tap.</li>
+<li data-xf-list-type="ul">Added very high multi-points level.</li>
+<li data-xf-list-type="ul">Optimized multi-points.</li>
+<li data-xf-list-type="ul">Fixed fps drops with multi-points.</li>
+<li data-xf-list-type="ul">Added hide shots.</li>
+<li data-xf-list-type="ul">Fixed some bugs with exploits.</li>
+</ul><b>Visuals</b><br />
+<ul>
+<li data-xf-list-type="ul">Now the lag compensation hitboxes are visible through the walls.</li>
+<li data-xf-list-type="ul">Some visual improvements.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>28.12.2019</title>
+      <pubDate>Sat, 10 Oct 2020 09:00:00 +0000</pubDate>
+      <link>https://legendware.pw/threads/28-12-2019.24/</link>
+      <guid isPermaLink="false">24</guid>
+      <author>invalid@example.com (Immortale)</author>
+      <category domain="https://legendware.pw/forums/cheat-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Immortale</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Cheat</b><br />
+<ul>
+<li data-xf-list-type="ul">Changed style of tabs in menu.</li>
+<li data-xf-list-type="ul">Fixed some bugs with hitchance calculation.</li>
+<li data-xf-list-type="ul">Fixed some bugs with anti-aim direction.</li>
+<li data-xf-list-type="ul">Removed model changer (unstable).</li>
+<li data-xf-list-type="ul">Fixed some crashes.</li>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>18</slash:comments>
+    </item>
+  </channel>
+</rss>

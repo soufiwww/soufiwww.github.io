@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Updates</title>
+    <description>Here you can see the latest updates of the forum</description>
+    <pubDate>Thu, 26 May 2022 13:17:54 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 13:17:54 +0000</lastBuildDate>
+    <generator>Legendware</generator>
+    <link>https://legendware.pw/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://legendware.pw/forums/forum-updates/index.rss"/>
+    <item>
+      <title>04.04.2022</title>
+      <pubDate>Mon, 04 Apr 2022 12:03:57 +0000</pubDate>
+      <link>https://legendware.pw/threads/04-04-2022.8183/</link>
+      <guid isPermaLink="false">8183</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+The current design of the forum has been slightly improved.<br />
+增加了对中文的支持。 开关位于站点的最底部，下面是它的外观。<br />
+<br />
+<img src="https://legendware.pw/attachments/1649073806569-png.16685/"
+			class="bbImage "
+			style=""
+			alt="1649073806569.png"
+			title="1649073806569.png"
+			width="1745" height="606" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>13.02.2020</title>
+      <pubDate>Tue, 29 Mar 2022 07:18:18 +0000</pubDate>
+      <link>https://legendware.pw/threads/13-02-2020.117/</link>
+      <guid isPermaLink="false">117</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Design update.</li>
+<li data-xf-list-type="ul">Improved optimization.</li>
+<li data-xf-list-type="ul">Added promo codes.</li>
+<li data-xf-list-type="ul">Added &quot;Media&quot; navigation.</li>
+<li data-xf-list-type="ul">Footer clearing.</li>
+<li data-xf-list-type="ul">New &quot;LEGEND&quot; banner.</li>
+<li data-xf-list-type="ul">Improved switching header-tabs style.</li>
+<li data-xf-list-type="ul">Added Saint Valentine&#039;s day design<b> (<u>promocode &quot;Valentine&quot; - 14% discount).</u></b></li>
+</ul></div>]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>14.09.2021</title>
+      <pubDate>Tue, 14 Sep 2021 10:01:13 +0000</pubDate>
+      <link>https://legendware.pw/threads/14-09-2021.6116/</link>
+      <guid isPermaLink="false">6116</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+Upgraded some visual things.<br />
+Fixed various visual bugs.<br />
+Добавлена поддержка русского языка. Переключатель находится в самом низу сайта, ниже показано как это выглядит.<br />
+<br />
+<img src="https://legendware.pw/attachments/1631612372896-png.12430/"
+			class="bbImage "
+			style=""
+			alt="1631612372896.png"
+			title="1631612372896.png"
+			width="1402" height="400" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>16.08.2021</title>
+      <pubDate>Mon, 16 Aug 2021 17:35:28 +0000</pubDate>
+      <link>https://legendware.pw/threads/16-08-2021.5852/</link>
+      <guid isPermaLink="false">5852</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+Upgraded some visual things.<br />
+Added the ability to set prefixes in threads. Below is shown how it looks.<br />
+<br />
+<img src="https://legendware.pw/attachments/1629135236150-png.11931/"
+			class="bbImage "
+			style="width: 683px"
+			alt="1629135236150.png"
+			title="1629135236150.png"
+			width="1426" height="445" loading="lazy" /><br />
+<br />
+Now owners of Legend role can change usernames once a month. Below is shown how this can be done.<br />
+<br />
+<img src="https://legendware.pw/attachments/1629138375361-png.11933/"
+			class="bbImage "
+			style="width: 683px"
+			alt="1629138375361.png"
+			title="1629138375361.png"
+			width="1426" height="180" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>12.08.2021</title>
+      <pubDate>Thu, 12 Aug 2021 17:25:51 +0000</pubDate>
+      <link>https://legendware.pw/threads/12-08-2021.5822/</link>
+      <guid isPermaLink="false">5822</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+Added logining/registering/connecting accounts via VK, Yandex and Google. Below is shown how it looks.<br />
+<br />
+<img src="https://legendware.pw/attachments/1628789054579-png.11865/"
+			class="bbImage "
+			style=""
+			alt="1628789054579.png"
+			title="1628789054579.png"
+			width="998" height="137" loading="lazy" /><br />
+<br />
+Changed forum design in small things.</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>06.08.2021</title>
+      <pubDate>Fri, 06 Aug 2021 14:17:28 +0000</pubDate>
+      <link>https://legendware.pw/threads/06-08-2021.5773/</link>
+      <guid isPermaLink="false">5773</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum <br />
+Added the ability to bump threads, below is shown how it looks.<br />
+Availability<br />
+For Premium users: 1 time per day.<br />
+For Legend users: 3 times per day.<br />
+For Supporter users: 5 times per day.<br />
+<br />
+<img src="https://legendware.pw/attachments/1628259301999-png.11775/"
+			class="bbImage "
+			style=""
+			alt="1628259301999.png"
+			title="1628259301999.png"
+			width="281" height="37" loading="lazy" /><br />
+<br />
+Fixed the ability to set covers on the forum (for Legend role).</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>01.08.2021</title>
+      <pubDate>Sun, 01 Aug 2021 17:14:04 +0000</pubDate>
+      <link>https://legendware.pw/threads/01-08-2021.5734/</link>
+      <guid isPermaLink="false">5734</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum <br />
+Added the ability to extend a subscription when it is already purchased. This is shown in the screenshot below.<br />
+<br />
+<img src="https://legendware.pw/attachments/1627838034718-png.11684/"
+			class="bbImage "
+			style=""
+			alt="1627838034718.png"
+			title="1627838034718.png"
+			width="1073" height="256" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>19.07.2021</title>
+      <pubDate>Mon, 19 Jul 2021 12:07:41 +0000</pubDate>
+      <link>https://legendware.pw/threads/19-07-2021.5583/</link>
+      <guid isPermaLink="false">5583</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+Added a payment method via Coinbase (cryptocurrencies). Payment options are presented below in the form of a screenshot.<br />
+<br />
+<img src="https://legendware.pw/attachments/1626801597383-png.11421/"
+			class="bbImage "
+			style=""
+			alt="1626801597383.png"
+			title="1626801597383.png"
+			width="532" height="701" loading="lazy" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>21.06.2021</title>
+      <pubDate>Mon, 21 Jun 2021 10:05:41 +0000</pubDate>
+      <link>https://legendware.pw/threads/21-06-2021.5242/</link>
+      <guid isPermaLink="false">5242</guid>
+      <author>invalid@example.com (Pelle)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>Pelle</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">● Forum<br />
+Added gift giving system. Now you can gift some upgrade to anyone.<br />
+Added keys activation system. Now you can activate keys for subscription.</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>29.12.2019</title>
+      <pubDate>Sun, 10 Jan 2021 23:43:44 +0000</pubDate>
+      <link>https://legendware.pw/threads/29-12-2019.32/</link>
+      <guid isPermaLink="false">32</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed payment.</li>
+<li data-xf-list-type="ul">Added chat.</li>
+<li data-xf-list-type="ul">Improved snow effect.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>7</slash:comments>
+    </item>
+    <item>
+      <title>22.07.2020 [!] - Big update</title>
+      <pubDate>Sun, 10 Jan 2021 23:33:45 +0000</pubDate>
+      <link>https://legendware.pw/threads/22-07-2020-big-update.1104/</link>
+      <guid isPermaLink="false">1104</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Welcome! Today we added our currency - &quot;<b>Legend coins</b>&quot;. To check your wallet you can press on new icon, on right-side from alerts <img src="https://legendware.pw/attachments/1595431680771-png.3182/"
+			class="bbImage "
+			style=""
+			alt="1595431680771.png"
+			title="1595431680771.png"
+			width="107" height="41" loading="lazy" /><br />
+You can buy other&#039;s product for coins - [charge=0] product [/charge]<br />
+<code class="bbCodeInline">[charge=100] your product or smth [/charge]</code> where 100 - price.<br />
+<br />
+Also, you can pay for &#039;Legend&#039; upgrade by coins. 1 rub - 0.5 coins <img src="https://legendware.pw/attachments/1595431868045-png.3185/"
+			class="bbImage "
+			style=""
+			alt="1595431868045.png"
+			title="1595431868045.png"
+			width="775" height="158" loading="lazy" /><br />
+<br />
+There are several ways to earn them:<br />
+<ul>
+<li data-xf-list-type="ul">Post message - <i><b>2 coins</b></i><br />
+Your message will approve <b><span style="color: rgb(235, 107, 86)">moderator</span></b>, after that you will...</li>
+</ul><br />
+<a href="https://legendware.pw/threads/22-07-2020-big-update.1104/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>89</slash:comments>
+    </item>
+    <item>
+      <title>08.03.2020</title>
+      <pubDate>Sun, 10 Jan 2021 23:33:02 +0000</pubDate>
+      <link>https://legendware.pw/threads/08-03-2020.220/</link>
+      <guid isPermaLink="false">220</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+<li data-xf-list-type="ul">Added Lua tab.</li>
+<li data-xf-list-type="ul">Added support for Lua language.</li>
+<li data-xf-list-type="ul">Added new raffle system.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>10.05.2020</title>
+      <pubDate>Fri, 16 Oct 2020 15:56:55 +0000</pubDate>
+      <link>https://legendware.pw/threads/10-05-2020.501/</link>
+      <guid isPermaLink="false">501</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed various bugs.</li>
+<li data-xf-list-type="ul">Redesigned.</li>
+<li data-xf-list-type="ul">Improved optimization.</li>
+<li data-xf-list-type="ul">Added &quot;QIWI / Card&quot; payment method and &quot;QIWI payments&quot;.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>48</slash:comments>
+    </item>
+    <item>
+      <title>04.08.2020</title>
+      <pubDate>Tue, 13 Oct 2020 13:15:00 +0000</pubDate>
+      <link>https://legendware.pw/threads/04-08-2020.1256/</link>
+      <guid isPermaLink="false">1256</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">We have raised legend group price by legend coins, but, we also increased reward amount for posts etc.</div>]]></content:encoded>
+      <slash:comments>31</slash:comments>
+    </item>
+    <item>
+      <title>23.01.2020</title>
+      <pubDate>Tue, 13 Oct 2020 13:14:25 +0000</pubDate>
+      <link>https://legendware.pw/threads/23-01-2020.78/</link>
+      <guid isPermaLink="false">78</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Improved style banners.</li>
+<li data-xf-list-type="ul">Added new forum - general talk (off topic).</li>
+<li data-xf-list-type="ul">Improved optimization.</li>
+</ul><b>User groups</b><br />
+<ul>
+<li data-xf-list-type="ul">Added new user group - &quot;LEGEND&quot; (<a href="https://legendware.pw/forum/pages/legend_group" class="link link--internal">more info</a>).</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>08.09.2020</title>
+      <pubDate>Tue, 13 Oct 2020 10:34:15 +0000</pubDate>
+      <link>https://legendware.pw/threads/08-09-2020.1819/</link>
+      <guid isPermaLink="false">1819</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Added support for non cis cards (Using Enot.io)</div>]]></content:encoded>
+      <slash:comments>60</slash:comments>
+    </item>
+    <item>
+      <title>15.02.2020</title>
+      <pubDate>Sat, 10 Oct 2020 08:51:21 +0000</pubDate>
+      <link>https://legendware.pw/threads/15-02-2020.122/</link>
+      <guid isPermaLink="false">122</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed various bugs with account upgrades.</li>
+<li data-xf-list-type="ul">New design when you were tagged in the chat.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>14.02.2020</title>
+      <pubDate>Sat, 10 Oct 2020 08:47:50 +0000</pubDate>
+      <link>https://legendware.pw/threads/14-02-2020.119/</link>
+      <guid isPermaLink="false">119</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Improved style banners.</li>
+<li data-xf-list-type="ul">Improved chat.</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>30.08.20</title>
+      <pubDate>Sat, 10 Oct 2020 08:45:49 +0000</pubDate>
+      <link>https://legendware.pw/threads/30-08-20.1545/</link>
+      <guid isPermaLink="false">1545</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Added covers for <b>profiles</b>(from <i>Legend</i>) and <b>threads</b>(from <i>future role</i>)<br />
+Added block with latest posts and popular threads (may be more in the future)<br />
+Fixed position with block &quot;Legendware v3&quot;</div>]]></content:encoded>
+      <slash:comments>22</slash:comments>
+    </item>
+    <item>
+      <title>31.12.2019</title>
+      <pubDate>Sat, 10 Oct 2020 08:44:09 +0000</pubDate>
+      <link>https://legendware.pw/threads/31-12-2019.34/</link>
+      <guid isPermaLink="false">34</guid>
+      <author>invalid@example.com (LegendwareAdmin)</author>
+      <category domain="https://legendware.pw/forums/forum-updates/"><![CDATA[Updates]]></category>
+      <dc:creator>LegendwareAdmin</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Forum</b><br />
+<ul>
+<li data-xf-list-type="ul">Fixed e-mail messages</li>
+</ul></div>]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+  </channel>
+</rss>
